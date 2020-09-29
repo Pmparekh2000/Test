@@ -1,1 +1,1 @@
-This is the file in branch MyNewBranch
+This is the file in branch MyNewBranch tested
