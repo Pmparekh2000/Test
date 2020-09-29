@@ -1,1 +1,2 @@
 Hello this is a text file with branching
+This is an email from Branch3
